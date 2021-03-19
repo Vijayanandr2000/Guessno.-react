@@ -1,0 +1,14 @@
+h1 {
+  margin: 20px 0;
+  color: rgb(0, 0, 53);
+  filter: drop-shadow(20px);
+  border: 2px solid grey;
+  padding: 10px 25px;
+}
+.reload button {
+  margin-left: 30%;
+  width: 160px;
+  margin-bottom: 20px;
+  font-size: medium;
+  font-weight: 200;
+}
